@@ -10,10 +10,17 @@
     "client": "cd client && npm start",
     "start": "npm run dev"
   },
-  "keywords": ["dj", "profile", "crud", "react", "express", "mongodb"],
+  "keywords": [
+    "dj",
+    "profile",
+    "crud",
+    "react",
+    "express",
+    "mongodb"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^8.0.0"
+    "concurrently": "^8.2.2"
   }
 }
