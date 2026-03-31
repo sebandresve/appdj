@@ -43,3 +43,7 @@ uploads/
 # OS
 Thumbs.db
 .env.*.local
+
+.agents/
+.github/
+.vscode/
